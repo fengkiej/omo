@@ -1,0 +1,13 @@
+name: Omo CLI
+about: A next-gen algotrading framework
+subcommands:
+    - init-project:
+        about: Initialize Omo project.
+    - init-strategy:
+        about: Initialize Omo project.
+    - backtest:
+        about: Backtest trading strategy.
+    - optimize:
+        about: Optimize trading strategy parameters.
+    - run-live:
+        about: Run strategy for live trading.
