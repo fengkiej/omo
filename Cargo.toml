@@ -1,0 +1,13 @@
+[package]
+name = "omo"
+description = "A complete algotrading framework written in Rust"
+version = "0.1.0"
+authors = ["fengkiej <fengkiejunis@gmail.com>", "elr0nda10 <https://github.com/elr0nda10>"]
+edition = "2018"
+license-file = "LICENSE"
+keywords = ["algotrading", "framework", "trading", "finance"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+clap = "2.33.1"
